@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\String-Exercise\String-Exercise\bin\Debug\String-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\String-Exercise\String-Exercise\bin\Debug\String-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\String-Exercise\String-Exercise\bin\Debug\String-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\String-Exercise\String-Exercise\obj\Debug\String-Exercise.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\String-Exercise\String-Exercise\obj\Debug\String-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\String-Exercise\String-Exercise\obj\Debug\String-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\String-Exercise\String-Exercise\obj\Debug\String-Exercise.pdb

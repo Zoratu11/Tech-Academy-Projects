@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\While-Statement-Example\While-Statement-Example\bin\Debug\While-Statement-Example.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\While-Statement-Example\While-Statement-Example\bin\Debug\While-Statement-Example.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\While-Statement-Example\While-Statement-Example\bin\Debug\While-Statement-Example.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\While-Statement-Example\While-Statement-Example\obj\Debug\While-Statement-Example.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\While-Statement-Example\While-Statement-Example\obj\Debug\While-Statement-Example.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\While-Statement-Example\While-Statement-Example\obj\Debug\While-Statement-Example.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\While-Statement-Example\While-Statement-Example\obj\Debug\While-Statement-Example.pdb

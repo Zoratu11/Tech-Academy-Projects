@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb

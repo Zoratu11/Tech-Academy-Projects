@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Array-And-List-Example\Array-And-List-Example\bin\Debug\Array-And-List-Example.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Array-And-List-Example\Array-And-List-Example\bin\Debug\Array-And-List-Example.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Array-And-List-Example\Array-And-List-Example\bin\Debug\Array-And-List-Example.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Array-And-List-Example\Array-And-List-Example\obj\Debug\Array-And-List-Example.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Array-And-List-Example\Array-And-List-Example\obj\Debug\Array-And-List-Example.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Array-And-List-Example\Array-And-List-Example\obj\Debug\Array-And-List-Example.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Array-And-List-Example\Array-And-List-Example\obj\Debug\Array-And-List-Example.pdb
