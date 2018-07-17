@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Car-Insurance-Approval-Program\Car-Insurance-Approval-Program\bin\Debug\Car-Insurance-Approval-Program.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Car-Insurance-Approval-Program\Car-Insurance-Approval-Program\bin\Debug\Car-Insurance-Approval-Program.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Car-Insurance-Approval-Program\Car-Insurance-Approval-Program\bin\Debug\Car-Insurance-Approval-Program.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Car-Insurance-Approval-Program\Car-Insurance-Approval-Program\obj\Debug\Car-Insurance-Approval-Program.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Car-Insurance-Approval-Program\Car-Insurance-Approval-Program\obj\Debug\Car-Insurance-Approval-Program.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Car-Insurance-Approval-Program\Car-Insurance-Approval-Program\obj\Debug\Car-Insurance-Approval-Program.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Car-Insurance-Approval-Program\Car-Insurance-Approval-Program\obj\Debug\Car-Insurance-Approval-Program.pdb
