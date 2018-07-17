@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
