@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\bin\Debug\Anonymous-Income-Comparison-Program.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\bin\Debug\Anonymous-Income-Comparison-Program.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\bin\Debug\Anonymous-Income-Comparison-Program.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\obj\Debug\Anonymous-Income-Comparison-Program.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\obj\Debug\Anonymous-Income-Comparison-Program.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\obj\Debug\Anonymous-Income-Comparison-Program.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Anonymous-Income-Comparison-Program\Anonymous-Income-Comparison-Program\obj\Debug\Anonymous-Income-Comparison-Program.pdb
