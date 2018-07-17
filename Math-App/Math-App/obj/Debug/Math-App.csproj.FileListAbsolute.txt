@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Math-App\Math-App\bin\Debug\Math-App.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Math-App\Math-App\bin\Debug\Math-App.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Math-App\Math-App\bin\Debug\Math-App.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Math-App\Math-App\obj\Debug\Math-App.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Math-App\Math-App\obj\Debug\Math-App.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Math-App\Math-App\obj\Debug\Math-App.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\Math-App\Math-App\obj\Debug\Math-App.pdb
