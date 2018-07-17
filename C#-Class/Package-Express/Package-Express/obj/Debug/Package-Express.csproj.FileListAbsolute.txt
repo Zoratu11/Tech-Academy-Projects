@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Package-Express\Package-Express\bin\Debug\Package-Express.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Package-Express\Package-Express\bin\Debug\Package-Express.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Package-Express\Package-Express\bin\Debug\Package-Express.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Package-Express\Package-Express\obj\Debug\Package-Express.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Package-Express\Package-Express\obj\Debug\Package-Express.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Package-Express\Package-Express\obj\Debug\Package-Express.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Package-Express\Package-Express\obj\Debug\Package-Express.pdb
