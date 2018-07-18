@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-103-Exercise\Page-103-Exercise\bin\Debug\Page-103-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-103-Exercise\Page-103-Exercise\bin\Debug\Page-103-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-103-Exercise\Page-103-Exercise\bin\Debug\Page-103-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-103-Exercise\Page-103-Exercise\obj\Debug\Page-103-Exercise.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-103-Exercise\Page-103-Exercise\obj\Debug\Page-103-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-103-Exercise\Page-103-Exercise\obj\Debug\Page-103-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-103-Exercise\Page-103-Exercise\obj\Debug\Page-103-Exercise.pdb

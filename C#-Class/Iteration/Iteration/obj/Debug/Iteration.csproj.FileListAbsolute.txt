@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Iteration\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Iteration\Iteration\obj\Debug\Iteration.pdb
