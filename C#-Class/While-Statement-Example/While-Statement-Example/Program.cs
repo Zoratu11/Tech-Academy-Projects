@@ -95,6 +95,7 @@ namespace While_Statement_Example
             }
             while (keepGoing);
         }*/
+            Console.ReadLine();
         }
     }
 }
