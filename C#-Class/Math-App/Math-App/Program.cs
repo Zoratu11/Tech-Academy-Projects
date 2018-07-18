@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Enter first number: ");
         long number1 = Convert.ToInt64(Console.ReadLine());
-        number1 = number1 + 50;
+        number1 = number1 * 50;
         Console.WriteLine("First number times 50 equals: " + number1);
 
         Console.WriteLine("Enter second number: ");
