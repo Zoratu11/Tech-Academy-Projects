@@ -28,5 +28,7 @@ class Program
         int number5 = Convert.ToInt32(Console.ReadLine());
         int remainder = number5 % 7;
         Console.WriteLine("The remainder of the fifth number divided by 7 is: " + remainder);
+
+        Console.ReadLine();
     }
 }
