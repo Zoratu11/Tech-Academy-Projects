@@ -1,0 +1,7 @@
+c:\users\zoratu\documents\visual studio 2017\Projects\Class-Exercise\Class-Exercise\bin\Debug\Class-Exercise.exe.config
+c:\users\zoratu\documents\visual studio 2017\Projects\Class-Exercise\Class-Exercise\bin\Debug\Class-Exercise.exe
+c:\users\zoratu\documents\visual studio 2017\Projects\Class-Exercise\Class-Exercise\bin\Debug\Class-Exercise.pdb
+c:\users\zoratu\documents\visual studio 2017\Projects\Class-Exercise\Class-Exercise\obj\Debug\Class-Exercise.csprojAssemblyReference.cache
+c:\users\zoratu\documents\visual studio 2017\Projects\Class-Exercise\Class-Exercise\obj\Debug\Class-Exercise.csproj.CoreCompileInputs.cache
+c:\users\zoratu\documents\visual studio 2017\Projects\Class-Exercise\Class-Exercise\obj\Debug\Class-Exercise.exe
+c:\users\zoratu\documents\visual studio 2017\Projects\Class-Exercise\Class-Exercise\obj\Debug\Class-Exercise.pdb
