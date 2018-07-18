@@ -27,7 +27,7 @@ namespace Package_Express
                 Console.WriteLine("Enter package length: ");
                 packageLength = Convert.ToDouble(Console.ReadLine());
 
-                double total = packageWidth + packageHeight + packageLength;
+                double total = packageWidth * packageHeight * packageLength;
 
                 if (total > 50)
                 {
