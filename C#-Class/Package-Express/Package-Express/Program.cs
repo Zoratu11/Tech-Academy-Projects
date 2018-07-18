@@ -27,10 +27,9 @@ namespace Package_Express
                 Console.WriteLine("Enter package length: ");
                 packageLength = Convert.ToDouble(Console.ReadLine());
 
-                double total = packageWidth * packageHeight * packageLength;
+                double total = packageWidth + packageHeight + packageLength;
 
-                //Divide by 100 to get total dimensions
-                if (total / 100 > 50)
+                if (total > 50)
                 {
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                 } else
@@ -40,6 +39,8 @@ namespace Package_Express
                     Console.WriteLine("Thank you.");
                 }
             }
+
+            Console.ReadLine();
         }
     }
 }
