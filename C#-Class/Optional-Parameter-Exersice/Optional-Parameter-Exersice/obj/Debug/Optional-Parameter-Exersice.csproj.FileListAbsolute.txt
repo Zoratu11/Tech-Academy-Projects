@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Optional-Parameter-Exersice\Optional-Parameter-Exersice\bin\Debug\Optional-Parameter-Exersice.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Optional-Parameter-Exersice\Optional-Parameter-Exersice\bin\Debug\Optional-Parameter-Exersice.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Optional-Parameter-Exersice\Optional-Parameter-Exersice\bin\Debug\Optional-Parameter-Exersice.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Optional-Parameter-Exersice\Optional-Parameter-Exersice\obj\Debug\Optional-Parameter-Exersice.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Optional-Parameter-Exersice\Optional-Parameter-Exersice\obj\Debug\Optional-Parameter-Exersice.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Optional-Parameter-Exersice\Optional-Parameter-Exersice\obj\Debug\Optional-Parameter-Exersice.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Optional-Parameter-Exersice\Optional-Parameter-Exersice\obj\Debug\Optional-Parameter-Exersice.pdb
