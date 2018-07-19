@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Named-Parameter-Exercise\Named-Parameter-Exercise\bin\Debug\Named-Parameter-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Named-Parameter-Exercise\Named-Parameter-Exercise\bin\Debug\Named-Parameter-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Named-Parameter-Exercise\Named-Parameter-Exercise\bin\Debug\Named-Parameter-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Named-Parameter-Exercise\Named-Parameter-Exercise\obj\Debug\Named-Parameter-Exercise.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Named-Parameter-Exercise\Named-Parameter-Exercise\obj\Debug\Named-Parameter-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Named-Parameter-Exercise\Named-Parameter-Exercise\obj\Debug\Named-Parameter-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Named-Parameter-Exercise\Named-Parameter-Exercise\obj\Debug\Named-Parameter-Exercise.pdb
