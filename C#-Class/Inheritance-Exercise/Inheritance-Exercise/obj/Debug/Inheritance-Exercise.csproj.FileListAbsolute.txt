@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Inheritance-Exercise\Inheritance-Exercise\bin\Debug\Inheritance-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Inheritance-Exercise\Inheritance-Exercise\bin\Debug\Inheritance-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Inheritance-Exercise\Inheritance-Exercise\bin\Debug\Inheritance-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Inheritance-Exercise\Inheritance-Exercise\obj\Debug\Inheritance-Exercise.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Inheritance-Exercise\Inheritance-Exercise\obj\Debug\Inheritance-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Inheritance-Exercise\Inheritance-Exercise\obj\Debug\Inheritance-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Inheritance-Exercise\Inheritance-Exercise\obj\Debug\Inheritance-Exercise.pdb
