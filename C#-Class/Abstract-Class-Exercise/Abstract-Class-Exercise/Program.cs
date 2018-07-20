@@ -12,6 +12,8 @@ namespace Abstract_Class_Exercise
         {
             Employee emp = new Employee() { FirstName = "Sample", LastName = "Student" };
             emp.SayName();
+            IQuittable emp2 = new Employee();
+            emp2.Quit();
 
             Console.ReadLine();
         }
