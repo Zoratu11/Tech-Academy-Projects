@@ -10,10 +10,10 @@ namespace Abstract_Class_Exercise
     {
         static void Main(string[] args)
         {
-            Employee emp = new Employee() { FirstName = "Sample", LastName = "Student" };
-            emp.SayName();
-            IQuittable emp2 = new Employee();
-            emp2.Quit();
+            Employee emp1 = new Employee() { FirstName = "Sample", LastName = "Student", Id = 41 };
+            Employee emp2 = new Employee() { FirstName = "Sample", LastName = "Student", Id = 41 };
+            string message = emp1 == emp2;
+            Console.WriteLine(message);
 
             Console.ReadLine();
         }
