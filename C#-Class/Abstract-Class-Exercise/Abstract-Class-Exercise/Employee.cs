@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Abstract_Class_Exercise
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
+        public List<T> things;
         public int Id { get; set; }
 
         public override void SayName()
@@ -20,7 +21,7 @@ namespace Abstract_Class_Exercise
             Console.WriteLine("I quit! This job sucks!");
         }
 
-        public static string operator==(Employee emp1, Employee emp2)
+        /*public static string operator==(Employee emp1, Employee emp2)
         {
             if (emp1.Id == emp2.Id)
             {
@@ -37,6 +38,6 @@ namespace Abstract_Class_Exercise
                 return "The employee Ids are not the same.";
             }
             else return "The employee Ids are the same!";
-        }
+        }*/
     }
 }
