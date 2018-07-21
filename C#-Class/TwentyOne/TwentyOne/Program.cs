@@ -10,6 +10,12 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            Card card1 = new Card();
+            Card card2 = card1;
+            card1.Face = Face.Eight;
+            card1.Suit = Suit.Spades;
+            Console.WriteLine(card2.Face + " of " + card2.Suit);
+
 
             Deck deck = new Deck();
             deck.Shuffle(3);

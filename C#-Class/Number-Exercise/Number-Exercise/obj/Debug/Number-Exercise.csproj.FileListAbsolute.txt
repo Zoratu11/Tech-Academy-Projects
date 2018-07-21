@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Number-Exercise\Number-Exercise\bin\Debug\Number-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Number-Exercise\Number-Exercise\bin\Debug\Number-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Number-Exercise\Number-Exercise\bin\Debug\Number-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Number-Exercise\Number-Exercise\obj\Debug\Number-Exercise.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Number-Exercise\Number-Exercise\obj\Debug\Number-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Number-Exercise\Number-Exercise\obj\Debug\Number-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Number-Exercise\Number-Exercise\obj\Debug\Number-Exercise.pdb
