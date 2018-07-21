@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum-Exercise", "Enum-Exercise\Enum-Exercise.csproj", "{0F440683-1D33-43BC-854B-F8EB8CF36B0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F440683-1D33-43BC-854B-F8EB8CF36B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F440683-1D33-43BC-854B-F8EB8CF36B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F440683-1D33-43BC-854B-F8EB8CF36B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F440683-1D33-43BC-854B-F8EB8CF36B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C92656D-5541-4B79-A309-31B0FAE3EB13}
+	EndGlobalSection
+EndGlobal

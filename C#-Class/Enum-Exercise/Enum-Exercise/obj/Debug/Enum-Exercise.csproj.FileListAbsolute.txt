@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Enum-Exercise\Enum-Exercise\bin\Debug\Enum-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Enum-Exercise\Enum-Exercise\bin\Debug\Enum-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Enum-Exercise\Enum-Exercise\bin\Debug\Enum-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Enum-Exercise\Enum-Exercise\obj\Debug\Enum-Exercise.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Enum-Exercise\Enum-Exercise\obj\Debug\Enum-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Enum-Exercise\Enum-Exercise\obj\Debug\Enum-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Enum-Exercise\Enum-Exercise\obj\Debug\Enum-Exercise.pdb
