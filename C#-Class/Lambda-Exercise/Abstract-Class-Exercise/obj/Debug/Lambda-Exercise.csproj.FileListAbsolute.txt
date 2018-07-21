@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Lambda-Exercise\Abstract-Class-Exercise\bin\Debug\Abstract-Class-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Lambda-Exercise\Abstract-Class-Exercise\bin\Debug\Abstract-Class-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Lambda-Exercise\Abstract-Class-Exercise\bin\Debug\Abstract-Class-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Lambda-Exercise\Abstract-Class-Exercise\obj\Debug\Lambda-Exercise.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Lambda-Exercise\Abstract-Class-Exercise\obj\Debug\Lambda-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Lambda-Exercise\Abstract-Class-Exercise\obj\Debug\Abstract-Class-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Lambda-Exercise\Abstract-Class-Exercise\obj\Debug\Abstract-Class-Exercise.pdb

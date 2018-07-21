@@ -10,22 +10,21 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Card card1 = new Card();
-            Card card2 = card1;
-            card1.Face = Face.Eight;
-            card1.Suit = Suit.Spades;
-            Console.WriteLine(card2.Face + " of " + card2.Suit);
 
 
             Deck deck = new Deck();
-            deck.Shuffle(3);
+            int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+            Console.WriteLine(count);
+
+            /*deck.Shuffle(3);
 
             foreach(Card card in deck.Cards)
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
 
-            Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine(deck.Cards.Count);*/
 
             Console.ReadLine();
         }
