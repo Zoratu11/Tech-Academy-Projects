@@ -11,6 +11,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Welcome to the grand hotel and casino. Lets start by you telling me your name!");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring in?");

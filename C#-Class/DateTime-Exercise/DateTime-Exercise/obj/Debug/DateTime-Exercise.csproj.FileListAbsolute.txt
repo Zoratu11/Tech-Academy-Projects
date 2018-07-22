@@ -1,0 +1,7 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\DateTime-Exercise\DateTime-Exercise\bin\Debug\DateTime-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\DateTime-Exercise\DateTime-Exercise\bin\Debug\DateTime-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\DateTime-Exercise\DateTime-Exercise\bin\Debug\DateTime-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\DateTime-Exercise\DateTime-Exercise\obj\Debug\DateTime-Exercise.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\DateTime-Exercise\DateTime-Exercise\obj\Debug\DateTime-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\DateTime-Exercise\DateTime-Exercise\obj\Debug\DateTime-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\DateTime-Exercise\DateTime-Exercise\obj\Debug\DateTime-Exercise.pdb
