@@ -17,6 +17,12 @@ namespace Input_Output_Exercise
             {
                 file.WriteLine(text);
             }
+            string[] fileText = File.ReadAllLines(@"C:\Users\Zoratu\Desktop\Logs\log1.txt");
+            Console.WriteLine("Here is the text inside the file: \n");
+            foreach (string str in fileText)
+            {
+                Console.WriteLine(str);
+            }
 
             Console.ReadLine();
         }

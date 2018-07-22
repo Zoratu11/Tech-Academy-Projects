@@ -4,3 +4,10 @@ C:\Users\Zoratu\Documents\Visual Studio 2017\Projects\Input-Output-Exercise\Inpu
 C:\Users\Zoratu\Documents\Visual Studio 2017\Projects\Input-Output-Exercise\Input-Output-Exercise\obj\Debug\Input-Output-Exercise.csproj.CoreCompileInputs.cache
 C:\Users\Zoratu\Documents\Visual Studio 2017\Projects\Input-Output-Exercise\Input-Output-Exercise\obj\Debug\Input-Output-Exercise.exe
 C:\Users\Zoratu\Documents\Visual Studio 2017\Projects\Input-Output-Exercise\Input-Output-Exercise\obj\Debug\Input-Output-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Input-Output-Exercise\Input-Output-Exercise\bin\Debug\Input-Output-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Input-Output-Exercise\Input-Output-Exercise\bin\Debug\Input-Output-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Input-Output-Exercise\Input-Output-Exercise\bin\Debug\Input-Output-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Input-Output-Exercise\Input-Output-Exercise\obj\Debug\Input-Output-Exercise.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Input-Output-Exercise\Input-Output-Exercise\obj\Debug\Input-Output-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Input-Output-Exercise\Input-Output-Exercise\obj\Debug\Input-Output-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Input-Output-Exercise\Input-Output-Exercise\obj\Debug\Input-Output-Exercise.pdb
