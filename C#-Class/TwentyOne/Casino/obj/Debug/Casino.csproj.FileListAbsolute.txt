@@ -1,0 +1,6 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\TwentyOne\Casino\obj\Debug\Casino.csprojAssemblyReference.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\TwentyOne\Casino\obj\Debug\Casino.pdb

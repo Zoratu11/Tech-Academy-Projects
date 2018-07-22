@@ -1,0 +1,6 @@
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-162-Exercise\Page-162-Exercise\bin\Debug\Page-162-Exercise.exe.config
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-162-Exercise\Page-162-Exercise\bin\Debug\Page-162-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-162-Exercise\Page-162-Exercise\bin\Debug\Page-162-Exercise.pdb
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-162-Exercise\Page-162-Exercise\obj\Debug\Page-162-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-162-Exercise\Page-162-Exercise\obj\Debug\Page-162-Exercise.exe
+C:\Users\Zoratu\Desktop\Tech-Academy-Projects\C#-Class\Page-162-Exercise\Page-162-Exercise\obj\Debug\Page-162-Exercise.pdb
