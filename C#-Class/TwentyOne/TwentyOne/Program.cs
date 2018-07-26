@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Data;
+using System.Data.SqlClient;
 using System.IO;
 using Casino;
 using Casino.TwentyOne;
@@ -15,7 +17,6 @@ namespace TwentyOne
 
             Console.WriteLine("Welcome to the {0}. Lets start by you telling me your name!", casinoName);
             string playerName = Console.ReadLine();
-
             bool validAnswer = false;
             int bank = 0;
             while(!validAnswer)
@@ -47,12 +48,14 @@ namespace TwentyOne
                     }
                     catch(FraudException ex)
                     {
-                        Console.WriteLine("Security kick this person out!");
+                        UpdateDbWithException(ex);
+                        Console.WriteLine(ex.Message);
                         Console.ReadLine();
                         return;
                     }
                     catch(Exception ex )
                     {
+                        UpdateDbWithException(ex);
                         Console.WriteLine("An error occured please contact your system admin");
                         Console.ReadLine();
                         return;
@@ -66,5 +69,34 @@ namespace TwentyOne
             Console.ReadLine();
         }
 
+        private static void UpdateDbWithException(Exception ex)
+        {
+            string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;
+                                        Initial Catalog=TwentyOneGame;
+                                        Integrated Security=True;
+                                        Connect Timeout=30;Encrypt=False;
+                                        TrustServerCertificate=False;
+                                        ApplicationIntent=ReadWrite;
+                                        MultiSubnetFailover=False";
+
+            string queryString = @"INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES
+                                    (@ExceptionType, @ExceptionMessage, @TimeStamp)";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+                command.Parameters.Add("@ExceptionType", SqlDbType.VarChar);
+                command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
+                command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
+
+                command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();
+                command.Parameters["@ExceptionMessage"].Value = ex.Message;
+                command.Parameters["@TimeStamp"].Value = DateTime.Now;
+
+                connection.Open();
+                command.ExecuteNonQuery();
+                connection.Close();
+            }
+        }
     }
 }
